@@ -16,7 +16,7 @@ Dieses Repository enthält alle Projekt-, Hardware- und Simulationsdaten, die im
     * `Produktionsfiles_aisler/`: Vollständige Fertigungsdaten (Camtastic, Gerber, Bohrdaten), aufbereitet für die Fertigung bei Aisler.
 * **`requirements.txt`**: Auflistung der benötigten Python-Bibliotheken.
 
-## ⚙️ Python Setup (Simulationen)
+## Python Setup (Simulationen)
 Um die Python-Auswertungsskripte im Ordner `01_Simulation/pyltspice/` lokal auszuführen, installieren Sie bitte vorab die benötigten Bibliotheken:
 ```bash
 pip install -r requirements.txt
