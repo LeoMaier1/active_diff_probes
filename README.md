@@ -2,7 +2,7 @@
 
 Dieses Repository enthält alle Projekt-, Hardware- und Simulationsdaten, die im Rahmen meiner Bachelorarbeit erstellt wurden.
 
-## 📂 Ordnerstruktur
+## Ordnerstruktur
 
 * **`01_Simulation/`**
   * `ltspice/`: Beinhaltet die nativen LTspice-Simulationsdateien.
